@@ -37,5 +37,6 @@ Contém as seguintes seções:
 * Contato e Footer
 
 ### NLW Together - Origin Desafio
-GITHUB PAGE: 
-https://app.rocketseat.com.br/
+[GITHUB PAGE](https://fernandosilvajesus.github.io/One-Page-Origin-NLW---06/)
+
+[rocketseat](https://app.rocketseat.com.br/)
