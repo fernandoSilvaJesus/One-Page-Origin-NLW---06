@@ -1,6 +1,11 @@
 # OriginSix Projeto WebSite - Responsivo
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+<p align="center">
+ <img src="https://i.ibb.co/BtcXwhN/Capa.png" alt="PRs welcome!" />
+</p>
+
+
+### Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 * HTML
 * CSS
@@ -32,4 +37,5 @@ Contém as seguintes seções:
 * Contato e Footer
 
 ### NLW Together - Origin Desafio
+GITHUB PAGE: 
 https://app.rocketseat.com.br/
